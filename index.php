@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP CRUD</title>
+    <title>MY FIRST UBUTN PROJECT DEPLOYMENT</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="style1.css">
 </head>
 <body>
     <div class="container mt-5">
-        <h2>Student Information Form</h2>
+        <p>MY FIRST UBUTN PROJECT DEPLOYMENT</p>p
         <form action="submit.php" method="POST">
             <!-- First Name -->
             <div class="mb-3">
