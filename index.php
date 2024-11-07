@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <p>MY FIRST UBUTN PROJECT DEPLOYMENT</p>p
+        <p>MY FIRST UBUTN PROJECT DEPLOYMENT</p>
         <form action="submit.php" method="POST">
             <!-- First Name -->
             <div class="mb-3">
